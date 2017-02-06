@@ -1,0 +1,26 @@
+{
+  "name": "chartist-plugin-slicedonutmargin",
+  "version": "0.0.1",
+  "description": "Slice donut margin for Chartist.js",
+  "main": "chartist-plugin-slicedonutmargin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mgrybyk/chartist-plugin-slicedonutmargin.git"
+  },
+  "keywords": [
+    "chartist",
+    "plugin",
+    "donit",
+    "slice",
+    "margin"
+  ],
+  "author": "jeromeWeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mgrybyk/chartist-plugin-slicedonutmargin/issues"
+  },
+  "homepage": "https://github.com/mgrybyk/chartist-plugin-slicedonutmargin#readme"
+}
