@@ -1,6 +1,6 @@
 {
   "name": "chartist-plugin-slicedonutmargin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Slice donut margin for Chartist.js",
   "main": "chartist-plugin-slicedonutmargin.js",
   "scripts": {
