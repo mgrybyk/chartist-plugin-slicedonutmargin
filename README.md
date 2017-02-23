@@ -4,7 +4,7 @@
 Simply published jeromeWeb's https://github.com/jeromeWeb/chartist-plugin-slicedonutmargin to npm
 
 
-Implements a legend for [Chartist](https://github.com/gionkunz/chartist-js) charts.
+This is a simple plugin for Chartist.js that will add margins between slices on donut charts.
 
 
 ## Install
